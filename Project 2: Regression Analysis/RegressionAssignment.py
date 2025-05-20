@@ -7,7 +7,7 @@ from sklearn.linear_model import LogisticRegression
 """
 PART 1: basic linear regression
 The goal is to predict the profit of a restaurant, based on the number of habitants where the restaurant 
-is located. The chain already has several restaurants in different cities. Your goal is to model 
+is located. The chain already has several restaurants in different cities. The goal is to model 
 the relationship between the profit and the populations from the cities where they are located.
 
 """
