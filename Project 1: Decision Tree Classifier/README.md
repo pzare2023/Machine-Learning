@@ -1,6 +1,6 @@
 # 🧪 Decision Tree Classification on Breast Cancer Dataset
 
-This project is part of a machine learning assignment focused on implementing a **Decision Tree Classifier** using the **Breast Cancer Wisconsin dataset** from Scikit-learn. The analysis includes model training, evaluation, hyperparameter tuning, and tree visualization.
+This Machine Learning project focused on implementing a **Decision Tree Classifier** using the **Breast Cancer Wisconsin dataset** from Scikit-learn. The analysis includes model training, evaluation, hyperparameter tuning, and tree visualization.
 
 ---
 
